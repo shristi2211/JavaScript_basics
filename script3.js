@@ -5,5 +5,6 @@ if(open){
 else{
     console.log("the college is closed today");
 }
+alert("connected");
 //an error will be found 
 //this progam is done to check the case sensitivity
